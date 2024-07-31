@@ -85,10 +85,14 @@ body {
         background-color: var(--botao-ativo);
         border-bottom: 4px solid var(--verde);
     }
-
     .aba-conteudo.ativo{
         display:block;   
     }
+    .contador{
+        font-size: 20px;
+        text-align: center;
+    }
+    
     .aba-conteudo{
         display: none;
     }
@@ -103,10 +107,7 @@ body {
         text-transform: uppercase;
     }
     
-    .contador{
-        font-size: 20px;
-        text-align: center;
-    }
+   
     
     
     
